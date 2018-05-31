@@ -51,7 +51,7 @@ def testXlwt(file = 'gen_value.xls'):
 
     book.save(file)
 
-#主函数
+# main function
 def main():
    testXlwt()
 
